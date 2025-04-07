@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"A1","Arduino_Nano_ESP32","Arduino_Nano",105.000000,-70.720000,0.000000,top
+"D1","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",143.420000,-58.500000,0.000000,top
+"J1","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",135.000000,-102.960000,0.000000,top
+"J2","Conn_01x02_Pin","PinHeader_1x02_P2.54mm_Vertical",144.000000,-85.725000,0.000000,top
+"K1","Relay_SPDT","Relay_SPDT_Finder_34.51_Vertical",108.250000,-57.000000,0.000000,top
+"M1","Motor_DC","PinHeader_1x02_P2.54mm_Vertical",154.000000,-84.460000,0.000000,top
+"Q1","BC547","TO-92_Inline",132.730000,-87.500000,0.000000,top
+"R1","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",145.540000,-69.150000,0.000000,top
+"R2","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",145.540000,-73.200000,0.000000,top
